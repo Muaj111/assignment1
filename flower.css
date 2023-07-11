@@ -26,6 +26,7 @@
 /* Main Flower Section */
 .main{
     text-align: center;
+    align-items: center;
 }
 .flower-main{
     display: flex;
@@ -110,3 +111,25 @@
     text-align: center;
     padding: 100px 500px;
 }
+.image-container {
+    position: relative;
+    margin: 3%;
+    color: rgb(13, 13, 13);
+    text-align: center;
+  }
+  
+  .imagetext {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    font-size: 24px;
+    text-align: center;
+  }
+  .email{
+    font-size: 24px;
+    padding-left: 20px;
+    padding-right: 50px;
+    
+  }
