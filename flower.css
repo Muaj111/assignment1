@@ -22,3 +22,91 @@
 .description{
     font-size: 20px;
 }
+
+/* Main Flower Section */
+.main{
+    text-align: center;
+}
+.flower-main{
+    display: flex;
+    padding: 50px 150px;
+    gap: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.first-flower{
+    padding: 50px;
+    background-color: rgb(221, 196, 246);
+    height: 300px;
+    padding-bottom: 0;
+    
+    
+    
+}
+.second-flower{
+    padding: 50px;
+    background-color: rgb(233, 199, 199);
+    height: 250px;
+    
+}
+.third-flower{
+    padding: 50px;
+    background-color: rgb(175, 241, 241);
+    height: 300px;
+    padding-bottom: 0%;
+    
+}
+.img1{
+    width: 217px;
+ 
+    
+}
+.img2{
+    width: 250px;
+}
+.img3{
+    width: 200px;
+}
+.our{
+    text-align: center;
+    margin-top: 100px;
+    align-items: center;
+    padding: 50px 200px;
+
+}
+.main2{
+    display: flex;
+    padding: 50px 300px;
+    align-items: center;
+    background-color: rgba(205, 248, 248, 0.926);
+    gap: 150px;
+}
+.diff{
+    color: rgb(255, 0, 0);
+}
+.ins{
+    padding: 100px;
+    padding-bottom: 50px;
+}
+.instaful{
+    align-items: center;
+    padding: 50px 100px;
+    padding-bottom: 10px;
+ 
+}
+.ful{
+    width: 270px;
+ 
+}
+.imglast{
+    width: 1100px;
+    padding: 10px;
+    padding-bottom: 50px;
+}
+.footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 100px 500px;
+}
